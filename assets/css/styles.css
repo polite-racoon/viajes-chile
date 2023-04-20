@@ -74,3 +74,8 @@ p { font-size: 1.25;}
     object-fit: cover;
     object-position: top;
 }
+
+footer i {
+    font-size: 1.5rem;
+    padding: 1rem 0.5rem;
+}
