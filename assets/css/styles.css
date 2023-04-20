@@ -68,3 +68,9 @@ p { font-size: 1.25;}
     background-position-y: 0;
     background-color: rgb(50,50,50);
 }
+
+.carousel-item > img {
+    height: 35vh;
+    object-fit: cover;
+    object-position: top;
+}
